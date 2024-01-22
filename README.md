@@ -6,7 +6,7 @@
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@for0147)](https://velog.io/@for0147)
 
 
-### Hi Welcome, i'm JUNHYEOK! 👋
+### Hi Welcome, I'm JUNHYEOK! 👋
 
 ![gg](https://github.com/koeyhnujeel/koeyhnujeel/assets/125088568/11b8bcbd-e575-4d7a-a8db-3ff12a5a1f1b)
 
